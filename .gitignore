@@ -1,0 +1,4 @@
+# Public showcase repository: publish only the entry page.
+*
+!.gitignore
+!index.html
